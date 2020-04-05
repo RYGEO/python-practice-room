@@ -1,5 +1,5 @@
 """
-This is going to be wheer you take a user's input
+This is going to be where you take a user's input
 in order to complete a problem
 and establish variables
 This is probably the furthest I got when I took C Programming in 2012
