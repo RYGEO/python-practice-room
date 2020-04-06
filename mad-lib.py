@@ -1,9 +1,9 @@
 """
 Mad Lib v1.0
 
-This program will take assign user input to variables for the purpose
-of creating a mad lib, or a story that has elements that change depending
-on what one writes down in an empty space.
+This program will prompt the user for inputs and assign said
+in puts for the purpose of creating a mad lib, or a story that has
+elements that change depending on what's written in empty spaces.
 
 The coder utilizes their current knowledge of variables, inputs, and
 the print function to achieve this.
